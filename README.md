@@ -1,16 +1,17 @@
-## Hi there 👋
+# Noemi Ferrarese
 
-<!--
-**Noemi-fe/Noemi-fe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mathematical Engineering graduate (Politecnico di Milano) and former BI analyst at Azimut. I build AI products and
+measure them before I trust them.
 
-Here are some ideas to get you started:
+**Now: [credible recs](https://credible-recs-446702383157.europe-west1.run.app)**, a live AI product that reads Reddit
+threads and ranks products by how credible the people recommending them are. Every quote it shows is checked word for
+word against its source first. I built it in October 2026 by directing Claude Code agents as a team: 790+ commits and
+6,700+ automated tests ([code](https://github.com/Noemi-fe/credible_recs)).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Also here:
+
+- [PoliSpace case](https://github.com/Noemi-fe/PoliSpace_Case): my IAC 2024 business paper on student associations as
+  an innovation catalyst for companies and start-ups
+- [Financial Mathematics](https://github.com/Noemi-fe/Financial_Matemathics_POLIMI): IRR, yield-curve bootstrapping,
+  portfolio optimisation, option pricing and VaR, in Excel and MATLAB
+- [LNL INFN paper](https://github.com/Noemi-fe/LNL_INFN_Paper): radon and cosmic-ray radiation
