@@ -1,4 +1,4 @@
-### Hi, I'm Noemi
+### Hi, I'm Noemi ✨
 
 Mathematical engineer, now building products with data and AI. Before that, as a BI analyst intern at Azimut Direct, I found 30+ corporate prospects worth €1M+ for the commercial team. If you only open three things, open these:
 
