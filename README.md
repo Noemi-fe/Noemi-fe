@@ -1,17 +1,11 @@
-# Hi, I'm Noemi
+### Hi, I'm Noemi
 
-Mathematical Engineering graduate (Politecnico di Milano) and former BI analyst at Azimut. I build AI products and
-measure them before I trust them.
+Mathematical engineer, now building products with data and AI. Before that, as a BI analyst intern at Azimut Direct, I found 30+ corporate prospects worth €1M+ for the commercial team. If you only open three things, open these:
 
-**Now: [credible recs](https://credible-recs-446702383157.europe-west1.run.app)**, a live AI product that reads Reddit
-threads and ranks products by how credible the people recommending them are. Every quote it shows is checked word for
-word against its source first. I built it in October 2026 by directing Claude Code agents as a team: 790+ commits and
-6,700+ automated tests ([code](https://github.com/Noemi-fe/credible_recs)).
+1. **[[name]](https://credible-recs-446702383157.europe-west1.run.app)**, my live AI product. Three picks for almost anything you buy, ranked by how credible the Reddit users recommending them are, with every quote checked word for word against its source. 94% precision and 97% recall on extraction, against a gold set I labelled by hand.
+2. **[Its code](https://github.com/Noemi-fe/credible_recs)**, written by a team of Claude Code agents under rules I set. I made the product, data and scoring calls. The agents are fast, tireless and occasionally very confidently wrong, which is why there are 6,700+ tests.
+3. **[A paper for IAC 2024](https://github.com/Noemi-fe/PoliSpace_Case/blob/main/IAC_2024_Business_Paper.pdf)**, co-written at PoliSpace from expert interviews: student associations as an innovation catalyst for companies and start-ups.
 
-Also here:
+**Looking for:** a Founder's Associate role at an early-stage startup, on product, data and AI.
 
-- [PoliSpace case](https://github.com/Noemi-fe/PoliSpace_Case): my IAC 2024 business paper on student associations as
-  an innovation catalyst for companies and start-ups
-- [Financial Mathematics](https://github.com/Noemi-fe/Financial_Matemathics_POLIMI): IRR, yield-curve bootstrapping,
-  portfolio optimisation, option pricing and VaR, in Excel and MATLAB
-- [LNL INFN paper](https://github.com/Noemi-fe/LNL_INFN_Paper): radon and cosmic-ray radiation
+**Elsewhere:** [LinkedIn](https://www.linkedin.com/in/nfer/) · email on my CV
