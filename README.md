@@ -1,4 +1,4 @@
-# Noemi Ferrarese
+# Hi, I'm Noemi
 
 Mathematical Engineering graduate (Politecnico di Milano) and former BI analyst at Azimut. I build AI products and
 measure them before I trust them.
